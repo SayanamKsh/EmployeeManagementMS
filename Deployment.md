@@ -28,7 +28,7 @@ Configure the database connection in Spring Boot application properties.
 **4. Caching with Elastic ache**
 Utilize Amazon Elastic ache to cache frequently accessed data for improved performance.
 
-5. Storage with S3
+**5. Storage with S3**
 Store static assets and user-uploaded files on Amazon S3 for scalability and redundancy.
 
 **6. Monitoring and Logging**

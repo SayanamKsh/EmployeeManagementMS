@@ -5,17 +5,17 @@
 **1. AWS Services Selection**
 To deploy our Spring Boot microservice effectively, we recommend using the following AWS services:
 
-**Amazon Elastic Beanstalk:** For deploying, managing, and scaling Spring Boot applications.
+  **Amazon Elastic Beanstalk:** For deploying, managing, and scaling Spring Boot applications.
 
-**Amazon RDS (Relational Database Service):** For storing application data securely.
+  **Amazon RDS (Relational Database Service):** For storing application data securely.
 
-**Amazon Elastic ache:** For caching frequently accessed data.
+  **Amazon Elastic ache:** For caching frequently accessed data.
 
-**Amazon S3 (Simple Storage Service):** For storing and serving static assets like images and documents.
+  **Amazon S3 (Simple Storage Service):** For storing and serving static assets like images and documents.
 
-**Amazon CloudWatch:** For monitoring and logging.
+  **Amazon CloudWatch:** For monitoring and logging.
 
-**Amazon SNS (Simple Notification Service):** For alerting and notifications.
+  **Amazon SNS (Simple Notification Service):** For alerting and notifications.
 
 **2. Elastic Beanstalk Configuration**
 Create an Elastic Beanstalk environment for deploying our Spring Boot microservice.
